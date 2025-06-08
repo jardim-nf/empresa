@@ -19,3 +19,12 @@ Aparece todos os dados preenchidos de acordo com oque foi preenchido na primeira
 com a função de alterar funcionando conforme o nome oi primeiro era Matheus Jardim e foi colocado Matheus Jardim Garcia
 
 ![image](https://github.com/jardim-nf/empresa/assets/55249966/efadbe91-c3f7-45d0-a895-1b35548a7fe6)
+
+## Festinha da Brubru
+
+Na pasta `festinha` existe uma aplicação simples em PHP e JavaScript que permite criar uma lista de itens para uma festa. Os dados ficam armazenados em arquivos JSON dentro de `festinha/data`.
+
+A página principal `festinha/index.php` exibe os itens disponíveis e cada um possui um botão "Selecionar". Quando o limite de escolhas de um item é atingido o botão é desabilitado.
+
+Para acessar o painel de administração clique no botão "⚒️" no canto superior direito da tela principal e informe a senha `admin123`. O painel possui três abas: adicionar item, registros de escolhas e configuração da interface.
+
