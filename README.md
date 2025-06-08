@@ -22,9 +22,18 @@ com a função de alterar funcionando conforme o nome oi primeiro era Matheus Ja
 
 ## Festinha da Brubru
 
-Na pasta `festinha` existe uma aplicação simples em PHP e JavaScript que permite criar uma lista de itens para uma festa. Os dados ficam armazenados em arquivos JSON dentro de `festinha/data`.
+Na pasta `festinha` agora existe uma pequena aplicação em **Node.js** com páginas
+HTML e JavaScript puro. As informações ficam salvas em arquivos JSON dentro de
+`festinha/data`.
 
-A página principal `festinha/index.php` exibe os itens disponíveis e cada um possui um botão "Selecionar". Quando o limite de escolhas de um item é atingido o botão é desabilitado.
+A página principal `festinha/index.html` carrega os itens a partir desses
+arquivos e apresenta um botão "Selecionar" para cada um. Quando o limite de
+escolhas de um item é atingido o botão é desabilitado.
 
-Para acessar o painel de administração clique no botão "⚒️" no canto superior direito da tela principal e informe a senha `admin123`. O painel possui três abas: adicionar item, registros de escolhas e configuração da interface.
+Para abrir o painel de administração clique no botão "⚒️" na página principal e
+digite a senha `admin123`. O painel possui três abas: adicionar item, registros
+das escolhas e configuração da interface.
+
+Execute `node server.js` dentro da pasta `festinha` para iniciar o servidor em
+`http://localhost:3000`.
 
