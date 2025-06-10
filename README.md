@@ -19,3 +19,6 @@ Aparece todos os dados preenchidos de acordo com oque foi preenchido na primeira
 com a função de alterar funcionando conforme o nome oi primeiro era Matheus Jardim e foi colocado Matheus Jardim Garcia
 
 ![image](https://github.com/jardim-nf/empresa/assets/55249966/efadbe91-c3f7-45d0-a895-1b35548a7fe6)
+
+## Loja Kallupi
+Para acessar a loja virtual, utilize o arquivo [loja.php](loja.php). Trata-se de uma página simples exibindo produtos fictícios.
