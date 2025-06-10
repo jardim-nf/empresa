@@ -22,6 +22,7 @@
                     <p class="lead">
                         <a class="btn btn-primary btn-lg" href="cadastro.php" role="button">Cadastro </a>
                         <a class="btn btn-primary btn-lg" href="pesquisa.php" role="button">Pesquisa</a>
+                        <a class="btn btn-success btn-lg" href="loja.php" role="button">Loja Kallupi</a>
                     </p>
                 </div>
             </div>
